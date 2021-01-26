@@ -23,7 +23,7 @@ we need to be able to work in a Jupyter Notebook on our computer.
 we need to be able to create written documents that contain images and we need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but we might prefer to use a word processor like Google Docs, which is free, or Microsoft Word.
     A text editor, like Sublime, which is free, will be useful but is not required.
     
-    
+    ..
 # Project Details : 
 
 ## our tasks in this project are as follows:
