@@ -10,6 +10,7 @@ is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRat
 
 
 
+
 ## What Software Do I Need?
 
 we need to be able to work in a Jupyter Notebook on our computer. 
